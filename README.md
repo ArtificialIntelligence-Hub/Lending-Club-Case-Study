@@ -8,7 +8,6 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Business Objectives:
@@ -26,7 +25,14 @@ The consumer finance company faces the dual challenge of approving loans to cred
 The dataset contains comprehensive information about past loan applicants, including their credit history, loan status, and repayment behavior. It covers the time period from 2007 to 2011 and provides insights into various scenarios, including fully paid loans, ongoing repayments, and charged-off loans. The dataset serves as the foundation for conducting EDA and extracting meaningful patterns to enhance risk assessment.
 The dataset, spanning from 2007 to 2011, is provided for analysis. It includes details on loan applicants, their creditworthiness, and the outcome of their loan applications. A data dictionary is available to understand the meaning of each variable in the dataset.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Technologies Used
+- numpy      - version 1.21.5
+- pandas     - version 1.4.3
+- seaborn    - version 0.11.2
+- matplotlib - version 3.5.2
+- plotly     - version 5.6.0
+
 
 ## Conclusions
 ## - Loan Status Comparison:
@@ -68,18 +74,6 @@ The dataset, spanning from 2007 to 2011, is provided for analysis. It includes d
 3. Attention to borrowers with annual incomes between  50,000 and 100,000.
 4. Scrutiny of borrowers with public recorded bankruptcy, lower grades (E, F, G), and high Debt-to-Income values.
 5. Consideration of borrowers with 10+ years of work experience.
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- numpy      - version 1.21.5
-- pandas     - version 1.4.3
-- seaborn    - version 0.11.2
-- matplotlib - version 3.5.2
-- plotly     - version 5.6.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 
