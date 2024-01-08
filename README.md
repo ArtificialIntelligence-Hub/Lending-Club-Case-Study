@@ -86,4 +86,4 @@ Created by [@ArtificialIntelligence-Hub] - feel free to contact me!
 
 ## Team
 - [Kunal Nimje](https://github.com/ArtificialIntelligence-Hub) - Group Facilitator
-- Mahesh Koilada - Team Member
+- [Mahesh Koilada](https://github.com/Mahesh-Koilada) - Team Member
